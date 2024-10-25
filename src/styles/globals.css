@@ -3,8 +3,8 @@
 body {
     margin: 0;
     padding: 0;
-    background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(252, 247, 254, 1) 54%, rgba(223, 160, 237, 1) 84%);
+    background: rgb(230, 230, 230);
+    background: linear-gradient(180deg, rgb(238, 205, 247) 0%, rgb(208, 167, 224) 54%, rgb(155, 81, 172) 84%);
     min-height: 100vh;
     font-size:  larger;
 }
