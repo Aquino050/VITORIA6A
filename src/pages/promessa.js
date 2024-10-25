@@ -12,8 +12,7 @@ export default function Promessa() {
     return<>
         <Menu />
         <Container>
-            Promessa {pao==="" ?"<Carregando>": pao}
-            <img src='' alt="Girl in a jacket" width='500' height='600'></img>
+            Promessa {pao==="" ?"<img src="carregando.gif" style="" width='10px' height='12px'></img>": pao}
         </Container> 
         <Footer />
     </>
